@@ -20,22 +20,23 @@ Jen does not like tea or coffee unless it doesn't taste like tea or coffee, so t
 
 **London Fog**
 
-  - 3-4 tea bags (David's tea cream of Earl Grey is my current teabags)
+  - 3-4 tea bags (David's tea cream of Earl Grey is my current teabags) OR 1 tbsp loose leaf tea in infuser
   - Vanilla syrup
   - Lavender syrup
   - Milk (3% dairyland protein milk is my go-to)
+  - OPTIONAL ~1 tsp of orange blossom honey
 
 # GOOD TO KNOW
 
 Jen does not like watery tea, so needs enough teabags to offset that, but also enough syrup and milk to make it not taste too much like tea. *Don't ask*.
 
-# INSTRUCTIONS
+# INSTRUCTIONS for HOT LONDON FOG LATTE
 
 > ⚠️
 > I followed the instructions/ratios for a coffee latte, so depending on how much milk you're able to steam you may need to adjust the water.
 
  1. Boil kettle.
- 1. Put 3-4 teabags in a large mug. 
+ 1. Put 3-4 teabags in a large mug or 1tbsp loose leaf earl grey (or similar) tea into the infuser.
  1. When kettle is boiled, put mug on a scale and pour ~110ml of boiling hot water into mug. Put aside for a bit to steep.
  1. While the teabags are teabagging, make the milk. Pour the maximum amount of milk in the milk steamer jug (I think for our Breville machine it's about ~1 cup) and steam/froth/foam it up.
  1. If you are using a nice milk steamer have a warm, wet cloth ready to wipe down the steam wand immediately otherwise Jon will tell you off.
@@ -44,4 +45,21 @@ Jen does not like watery tea, so needs enough teabags to offset that, but also e
  1. Enjoy.
 
  > ⚠️
-> If you've never steamed milk before, look up the techniques. You want to balance foam creation with foam density. Ideally you will be a fair amount of foam (not too much) and it will be 'strong'... kind of like stiff peaks for meringue. The steam wand nozzle should be at an angle in the jug and be just below the surface of the milk. 
+> If you've never steamed milk before, look up the techniques. You want to balance foam creation with foam density. Ideally you will be a fair amount of foam (not too much) and it will be 'strong'... kind of like stiff peaks for meringue. The steam wand nozzle should be at an angle in the jug and be just below the surface of the milk.
+
+# INSTRUCTIONS for ICED LONDON FOG LATTE
+
+> ⚠️
+> I followed the instructions/ratios for a coffee latte, so depending on how much milk you're able to steam you may need to adjust the water.
+
+ 1. Boil kettle.
+ 1. Put 3-4 teabags in a large mug or 1tbsp loose leaf earl grey (or similar) tea into the infuser.
+ 1. Add 3 pumps vanilla syrup, 1 tsp honey and 1 tbsp lavender syrup to bottom of mug.
+ 1. When kettle is boiled, put mug on a scale and pour ~150ml of boiling hot water into mug. Put aside for a bit to steep for 7-10 minutes.
+ 1. Once steeped, put mug in freezer for an hour (or a bit) to cool it down.
+ 1. Once sufficently cooled, mostly fill a 16 fl oz or 473ml glass / cup with ice cubes, then pour cooled tea mix over the ice.
+ 1. Fill to the top with ice and stir.
+ 1. Enjoy.
+
+ > ⚠️
+> If you've never steamed milk before, look up the techniques. You want to balance foam creation with foam density. Ideally you will be a fair amount of foam (not too much) and it will be 'strong'... kind of like stiff peaks for meringue. The steam wand nozzle should be at an angle in the jug and be just below the surface of the milk.
