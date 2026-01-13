@@ -44,6 +44,27 @@ Garlic/onion peel is ok apparently (but may result in a darker stock).
 
 Chicken wings are apparently the best of both worlds for both body and flavour of the final stock. However chicken breast may result in a tastier stock. Chicken feet add a lot of collagen.
 
+# OBSERVATIONS
+
+**First batch**
+- The first batch of stock I made was very gelatinous. This was approx 1.6kg of chicken scraps, including 1lb of chicken feet.
+- I don't remember much 'scum' floating on the top of the stock.
+- I don't recall a lot of fat on the top at the end.
+
+**Second batch**
+- The second batch of chicken stock I made had more fat floating on the top BUT I think this is due to me pouring in the mirepoix to the stock pot with the oil it cooked in (as I didn't want to lose any extra flavour after also browning the raw chicken bones in it).
+- I also broke up the meat off the bone after roasting to add to the stock (not sure if that makes any difference for flavour or composition).
+- I had approximately 2.7kg of chicken scraps (+ feet, drumsticks and wings), but chicken wings were again ~1lb. I think I should've added another pack of chicken feet for more gelatinous. Also, this time I cut the toenails off the chicken feet (again, don't know how much difference this makes to the end result).
+
+# NOTES FOR FUTURE
+
+**Chicken Feet**
+For a very gelatinous stock I *think* chicken feet should make up 1/4-1/3 of the chicken 'scraps' by weight.
+
+**Volume**
+Volume of the stock will only be a little under the volume of water.
+For water I have been adding *2x + 1 = litres* of water added, where *x* is the weight in kg of chicken scraps.
+
 # DIRECTIONS
 
  1. Chop fairly small (but we don't care too much) all of the mirepoix. I kept the carrot ends, some peel, onion skin, etc. 
