@@ -21,7 +21,7 @@ This recipe is adapted from the [BBC Good Food Chorizo and Pea Risotto](https://
   - 1-2 packs of longanisa, depending on how much sausage you want. I used 2 packs of sweet longanisa (2x375g) but next time I'd like to try one sweet one spicy.
   - 1 small onion, chopped small
   - 2-3 cloves of garlic, chopped really small (or minced)
-  - 1.2L of chicken stock
+  - 1.2L of [chicken stock](../Chicken Stock/readme.md)
   - 300g arborio rice
   - 100g frozen peas
   - 60g or parmesan (I honestly just generously eyeballed this)
